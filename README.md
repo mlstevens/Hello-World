@@ -4,7 +4,7 @@
 This is a sample repository to help learn more about GitHub, how to use its many features (inclduing an effective README), and the purposes and benefits of using it.
 # How to Run Program
 - Open the repository from my profile page
-- Open the READAme under that repository
+- Open the README under that repository
 - Read it
 # Files Used
 This README was made and formatted through the help of
