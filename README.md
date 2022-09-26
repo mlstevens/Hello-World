@@ -1,7 +1,7 @@
 # Project Title
 ***Hello World***
 # Description
-This is a sample repository to help learn more about GitHub, how to use its many features (inclduing an affectuve README), and the purposes and benefits of using it.
+This is a sample repository to help learn more about GitHub, how to use its many features (inclduing an effective README), and the purposes and benefits of using it.
 # How to Run Program
 - Open the repository from my profile page
 - Open the READAme under that repository
